@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "text rpg c# project/1.0.0": {
+        "runtime": {
+          "text rpg c# project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "text rpg c# project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
