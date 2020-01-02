@@ -9,3 +9,14 @@ C:\Users\stefa\Documents\text rpg c# project\obj\Debug\netcoreapp3.0\text rpg c#
 C:\Users\stefa\Documents\text rpg c# project\obj\Debug\netcoreapp3.0\text rpg c# project.AssemblyInfo.cs
 C:\Users\stefa\Documents\text rpg c# project\obj\Debug\netcoreapp3.0\text rpg c# project.dll
 C:\Users\stefa\Documents\text rpg c# project\obj\Debug\netcoreapp3.0\text rpg c# project.pdb
+C:\Users\stefa\Documents\text rpg c# project\text-rpg-game\obj\Debug\netcoreapp3.0\text rpg c# project.csprojAssemblyReference.cache
+C:\Users\stefa\Documents\text rpg c# project\text-rpg-game\obj\Debug\netcoreapp3.0\text rpg c# project.AssemblyInfoInputs.cache
+C:\Users\stefa\Documents\text rpg c# project\text-rpg-game\obj\Debug\netcoreapp3.0\text rpg c# project.AssemblyInfo.cs
+C:\Users\stefa\Documents\text rpg c# project\text-rpg-game\obj\Debug\netcoreapp3.0\text rpg c# project.dll
+C:\Users\stefa\Documents\text rpg c# project\text-rpg-game\obj\Debug\netcoreapp3.0\text rpg c# project.pdb
+C:\Users\stefa\Documents\text rpg c# project\text-rpg-game\bin\Debug\netcoreapp3.0\text rpg c# project.exe
+C:\Users\stefa\Documents\text rpg c# project\text-rpg-game\bin\Debug\netcoreapp3.0\text rpg c# project.deps.json
+C:\Users\stefa\Documents\text rpg c# project\text-rpg-game\bin\Debug\netcoreapp3.0\text rpg c# project.runtimeconfig.json
+C:\Users\stefa\Documents\text rpg c# project\text-rpg-game\bin\Debug\netcoreapp3.0\text rpg c# project.runtimeconfig.dev.json
+C:\Users\stefa\Documents\text rpg c# project\text-rpg-game\bin\Debug\netcoreapp3.0\text rpg c# project.dll
+C:\Users\stefa\Documents\text rpg c# project\text-rpg-game\bin\Debug\netcoreapp3.0\text rpg c# project.pdb

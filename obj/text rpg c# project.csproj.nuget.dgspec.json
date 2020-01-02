@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stefa\\Documents\\text rpg c# project\\text rpg c# project.csproj": {}
+    "C:\\Users\\stefa\\Documents\\text rpg c# project\\text-rpg-game\\text rpg c# project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stefa\\Documents\\text rpg c# project\\text rpg c# project.csproj": {
+    "C:\\Users\\stefa\\Documents\\text rpg c# project\\text-rpg-game\\text rpg c# project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stefa\\Documents\\text rpg c# project\\text rpg c# project.csproj",
+        "projectUniqueName": "C:\\Users\\stefa\\Documents\\text rpg c# project\\text-rpg-game\\text rpg c# project.csproj",
         "projectName": "text rpg c# project",
-        "projectPath": "C:\\Users\\stefa\\Documents\\text rpg c# project\\text rpg c# project.csproj",
+        "projectPath": "C:\\Users\\stefa\\Documents\\text rpg c# project\\text-rpg-game\\text rpg c# project.csproj",
         "packagesPath": "C:\\Users\\stefa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stefa\\Documents\\text rpg c# project\\obj\\",
+        "outputPath": "C:\\Users\\stefa\\Documents\\text rpg c# project\\text-rpg-game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stefa\\AppData\\Roaming\\NuGet\\NuGet.Config"
