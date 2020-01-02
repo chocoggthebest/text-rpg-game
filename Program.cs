@@ -13,7 +13,6 @@ namespace text_rpg_c__project
           return randomNumber;
         }
             start_of_the_game:
-            Console.WriteLine("You can use kick, headbump, punch \n kick > headbump \n headnump > punch \n punch > kick");
             var playerHealth = 20;
             var enemyWave = 0;
             var enemyHealth = 0;
@@ -29,7 +28,7 @@ namespace text_rpg_c__project
 
         while(playerHealth > 0)
         { // the game loop
-            enemy_stage://here checks for what wase this is
+            enemy_stage://here checks for what wave this is
             /**
                 every 3 waves a big guy spawns with 5hp and max crit of 3
             **/
@@ -64,7 +63,7 @@ namespace text_rpg_c__project
                     else{Console.WriteLine("fuck");}
                     enemyHealth--;
                     int chance_to_heal = ranNum(0, 100);
-                    if(chance_to_heal >= 30)
+                    if(chance_to_heal <= 30 && playerHealth > 19)
                     {
                         playerHealth++;
                         Console.WriteLine("You manage to heal 1 HP... yey");
@@ -75,8 +74,7 @@ namespace text_rpg_c__project
                 else if(PlayerMove == EnemyMove)//if the there is a draw
                 {
                     Console.Clear();
-                    Console.WriteLine("draw \n You both take a hit  -1 hp");
-                    playerHealth--;
+                    Console.WriteLine("draw \n You both take don't take damage");
                     Console.WriteLine("Your health is " + playerHealth);
                     Console.WriteLine("Enemy health is " + enemyHealth);
                 }
